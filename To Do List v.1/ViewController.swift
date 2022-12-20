@@ -21,12 +21,12 @@ class ViewController: NSViewController {
         taskTable.dataSource = self
         taskTable.delegate = self
         
-        // Do any additional setup after loading the view.
+      
     }
 
     override var representedObject: Any? {
         didSet {
-        // Update the view, if already loaded.
+        
         }
     }
 
