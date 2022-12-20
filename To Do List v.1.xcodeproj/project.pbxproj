@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F33D4E529524FCC009B6775 /* TasksTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F33D4E429524FCC009B6775 /* TasksTableViewCell.swift */; };
 		3FCB79BD2951EC2000420E27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB79BC2951EC2000420E27 /* AppDelegate.swift */; };
 		3FCB79BF2951EC2000420E27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FCB79BE2951EC2000420E27 /* ViewController.swift */; };
 		3FCB79C12951EC2400420E27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FCB79C02951EC2400420E27 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F33D4E429524FCC009B6775 /* TasksTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksTableViewCell.swift; sourceTree = "<group>"; };
 		3FCB79B92951EC2000420E27 /* To Do List v.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "To Do List v.1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FCB79BC2951EC2000420E27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FCB79BE2951EC2000420E27 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				3FCB79BC2951EC2000420E27 /* AppDelegate.swift */,
 				3FCB79BE2951EC2000420E27 /* ViewController.swift */,
+				3F33D4E429524FCC009B6775 /* TasksTableViewCell.swift */,
 				3FCB79C02951EC2400420E27 /* Assets.xcassets */,
 				3FCB79C22951EC2400420E27 /* Main.storyboard */,
 				3FCB79C52951EC2400420E27 /* To_Do_List_v_1.entitlements */,
@@ -251,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F33D4E529524FCC009B6775 /* TasksTableViewCell.swift in Sources */,
 				3FCB79BF2951EC2000420E27 /* ViewController.swift in Sources */,
 				3FCB79BD2951EC2000420E27 /* AppDelegate.swift in Sources */,
 			);
